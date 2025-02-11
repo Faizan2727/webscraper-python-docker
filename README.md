@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Dockerized Web Scraper with MySQL Integration
+# 🕵️‍♂️ Dockerized Web Scraper with MySQL Integration.
 
 This project demonstrates how to build a **Dockerized web scraper** using Python that scrapes movie quotes from a website and stores the data in a **MySQL database** running in a separate Docker container. The setup uses a **custom Docker network** with the `bridge` driver for seamless container communication.
 
