@@ -118,4 +118,4 @@ SELECT * FROM quotes;
 ## 📖 Conclusion
 This setup allows you to scrape and store data efficiently using Dockerized containers. Feel free to extend the project by adding features like **cron jobs for periodic scraping**, **data processing pipelines**, or **API integration** for real-time access.
 
-🚀 **Happy Scraping!** 🕵️‍♂️
+🚀 **Happy Scraping!!** 🕵️‍♂️
